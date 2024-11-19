@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+    <string name="post_url">post_url</string>
+    <string name="post_thumbnail">post_url</string>
+    <string name="post_title">post_url</string>
+    <string name="post_author">post_url</string>
+    <string name="post_updated">post_url</string>
+    <string name="post_id">post_id</string>
+    <string name="SessionUsername">com.example.redditapp.Account.SessionUsername</string>
+    <string name="SessionModhash">com.example.redditapp.Account.SessionModhash</string>
+    <string name="SessionCookie">com.example.redditapp.Account.SessionCookie</string>
+</resources>
